@@ -11,7 +11,6 @@ gem 'sqlite3'
 
 
 group :development do
-  gem 'sqlite3'
   gem 'tux'
 	gem 'shotgun'
 	gem 'pry'
