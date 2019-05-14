@@ -11,9 +11,10 @@ gem 'sqlite3'
 
 
 group :development do
-  gem 'tux'
 	gem 'shotgun'
 	gem 'pry'
+	gem 'tux'
+	gem 'sqlite3'
 end
     
 group :test do
